@@ -1,4 +1,4 @@
-.place__artist_label {
+.place__artist-label {
   font-size: 12px;
   line-height: 15px;
   letter-spacing: 0.12em;
@@ -9,7 +9,7 @@
 }
 
 @media screen and (max-width: 330px) {
-  .place__artist_label {
+  .place__artist-label {
     margin-bottom: 12px;
   }
 }
