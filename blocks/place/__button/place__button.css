@@ -1,0 +1,4 @@
+.place__button {
+  grid-area: button;
+  align-self: start;
+}

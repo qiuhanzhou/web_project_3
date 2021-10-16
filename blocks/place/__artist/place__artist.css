@@ -1,0 +1,4 @@
+.place__artist {
+  grid-area: artist;
+  align-self: end;
+}

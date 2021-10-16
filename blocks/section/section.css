@@ -1,0 +1,16 @@
+.section {
+  box-sizing: border-box;
+  padding: 92px 148px 0;
+}
+
+@media screen and (max-width: 778px) {
+  .section {
+    padding: 88px 24px 0;
+  }
+}
+
+@media screen and (max-width: 330px) {
+  .section {
+    padding: 64px 16px 0;
+  }
+}

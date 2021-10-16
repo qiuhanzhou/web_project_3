@@ -1,0 +1,8 @@
+.cover__button {
+  margin-top: 32px;
+}
+@media screen and (max-width: 330px) {
+  .cover__button {
+    margin-top: 16px;
+  }
+}

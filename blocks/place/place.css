@@ -1,0 +1,40 @@
+.place {
+  margin-bottom: 80px;
+  display: grid;
+  grid-template-areas:
+    'title artist'
+    'image text'
+    'button text';
+  gap: 48px 40px;
+  grid-template-columns: 460px 1fr;
+  grid-template-rows: min-content 460px 1fr;
+}
+
+.place:last-of-type {
+  margin-bottom: 0;
+}
+
+@media screen and (max-width: 778px) {
+  .place {
+    grid-template-columns: 340px 1fr;
+    grid-template-rows: min-content 340px 1fr;
+    gap: 48px 28px;
+    align-items: end;
+    margin-bottom: 72px;
+  }
+}
+
+@media screen and (max-width: 330px) {
+  .place {
+    grid-template-areas:
+      'title'
+      'artist'
+      'image'
+      'text'
+      'button';
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+    gap: 30px;
+    margin-bottom: 48px;
+  }
+}
