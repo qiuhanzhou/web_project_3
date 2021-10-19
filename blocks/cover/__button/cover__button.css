@@ -1,7 +1,9 @@
 .cover__button {
   margin-top: 32px;
+  padding: 13px 20px;
+  width: fit-content;
 }
-@media screen and (max-width: 330px) {
+@media screen and (max-width: 767px) {
   .cover__button {
     margin-top: 16px;
   }

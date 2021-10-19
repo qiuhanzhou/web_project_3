@@ -5,8 +5,12 @@
 - Intro
 - Figma
 - Images
+- Link to Github page
+- Techniques and technologies
 
 **Intro**
+
+This is a project that showcases the hometowns of some of Practicum's employees. It is a completely reponsive web page so that all the elements are displayed correctly on popular screen sizes.
 
 **Figma**
 
@@ -16,8 +20,9 @@
 
 The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster.
 
-Good luck and have fun!  
-This is a project that showcases the hometowns of some of Practicum's employees. We've made it so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.
-
 **Link to Github page**
-See here for the link to the [github page] (https://github.com/qiuhanzhou/web_project_3) for this project.
+See here for the link to the [github page] (https://qiuhanzhou.github.io/web_project_3/index.html) for this project.
+
+**Techniques and technologies**
+Technologies used include HTML5 and CSS3. The website is designed with a fully responsive feature so that all the elements are displayed correctly and beatifully cross all screen sizes.
+Techniques used include CSS layout tool such as flexbox and grid, modern hover-over effects, and BEM file structure.

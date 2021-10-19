@@ -4,7 +4,7 @@
   width: 100%;
 }
 
-@media screen and (max-width: 778px) {
+@media screen and (max-width: 1279px) {
   .lead__image {
     width: calc(100% + 48px);
     margin-left: -24px;
@@ -12,7 +12,7 @@
   }
 }
 
-@media screen and (max-width: 330px) {
+@media screen and (max-width: 767px) {
   .lead__image {
     width: calc(100% + 32px);
     margin-left: -16px;
