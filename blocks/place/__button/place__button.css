@@ -1,4 +1,10 @@
 .place__button {
   grid-area: button;
-  align-self: start;
+}
+@media screen and (max-width: 767px) {
+  .place__button {
+    width: 100%;
+    box-sizing: border-box;
+    text-align: center;
+  }
 }
