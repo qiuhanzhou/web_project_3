@@ -21,7 +21,7 @@ This is a project that showcases the hometowns of some of Practicum's employees.
 The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster.
 
 **Link to Github page**
-See here for the link to the [github page] (https://qiuhanzhou.github.io/web_project_3/index.html) for this project.
+See here for the link to the [github page](https://qiuhanzhou.github.io/web_project_3/index.html) for this project.
 
 **Techniques and technologies**
 Technologies used include HTML5 and CSS3. The website is designed with a fully responsive feature so that all the elements are displayed correctly and beatifully cross all screen sizes.
